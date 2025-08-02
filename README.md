@@ -20,14 +20,14 @@ The **Travel Itinerary Generator** is a Flask-based web application that helps u
 ## Working demo
 
 Here you can add your custom itinerary and click on the **Generate Itinerary** to get a complete Day-wise activities to do on the trip.
-![image alt]()
+![image alt](https://github.com/dhruvharsora/Travel-Itinerary-generation-using-AI/blob/3049346da7634a8013448a56e251d4a1aa793452/ss2.jpeg)
 
 It shows a complete itinerary for 5 days with budget of Rs.12,500 in Gujarat.
 ![image alt](https://github.com/dhruvharsora/Travel-Itinerary-generation-using-AI/blob/3049346da7634a8013448a56e251d4a1aa793452/ss1.jpeg)
 
 In this image we display the plan of the trip, when given extreme inputs. To check how the model responds to the user's requirements.
-![image alt]()
-![image alt]()
+![image alt](https://github.com/dhruvharsora/Travel-Itinerary-generation-using-AI/blob/3049346da7634a8013448a56e251d4a1aa793452/ss3.jpeg)
+![image alt](https://github.com/dhruvharsora/Travel-Itinerary-generation-using-AI/blob/3049346da7634a8013448a56e251d4a1aa793452/ss4.jpeg)
 
 ## Installation
 1. Clone the repository:
